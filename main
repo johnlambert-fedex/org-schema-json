@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@id": "https://www.fedex.com",
+"@type": "Organization",
+"name": "FedEx",
+"url": "https://www.fedex.com/",
+"logo": "https://www.fedex.com/content/dam/fedex-com/logos/logo.png",
+"sameAs": [
+"https://www.facebook.com/FedEx/",
+"https://twitter.com/fedex",
+"http://www.instagram.com/fedex",
+"http://www.linkedin.com/company/fedex",
+"http://www.youtube.com/fedex",
+"https://www.pinterest.com/fedex"
+]
+}
+</script>
